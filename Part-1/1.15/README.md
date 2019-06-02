@@ -18,4 +18,4 @@ Navigate to http://localhost:3000 to see the app up and running.
 
 You can find the original project here https://github.com/LoserPanda/hello-docker-react.
 
-The link to the image in Docker Hub is https://cloud.docker.com/repository/docker/dockerman88/hello-docker-react/general.
+The link to the image in Docker Hub is https://hub.docker.com/r/dockerman88/hello-docker-react.
