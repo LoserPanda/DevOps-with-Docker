@@ -1,6 +1,10 @@
 # DevOps with Docker
 
-This repository is used to submit solutions to the DevOps with Docker course that can be found at https://docker-hy.github.io/. The course consists of three parts. Here each part and it's exercises are submitted to a separate folder. Below are listed the exercises completed from each part.
+This repository is used to submit solutions to the DevOps with Docker course that can be found at https://docker-hy.github.io/. The course consists of different parts. Here each part and it's exercises are submitted to a separate folder. Below are listed the exercises completed from each part.
+
+## Part 0
+
+Exercises done: First Exercise
 
 ## Part 1
 
