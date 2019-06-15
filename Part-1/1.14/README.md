@@ -4,7 +4,7 @@
 
 To run the *rails-example-project*, clone the project first from
 
-* https://github.com/LoserPanda/rails-example-project
+* https://github.com/LoserPanda/rails-example-project/tree/feature/dockerfile
 
 Now, in the project root run these two commands:
 
