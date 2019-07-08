@@ -2,7 +2,7 @@
 
 ## 1.12
 
-To run the applications together clone these two forked  nd edited projects
+To run the applications together clone these two forked and edited projects
 
 * https://github.com/LoserPanda/frontend-example-docker/tree/feature/connect-to-backend
 * https://github.com/LoserPanda/backend-example-docker/tree/feature/connect-to-frontend
